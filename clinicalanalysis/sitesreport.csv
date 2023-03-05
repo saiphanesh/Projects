@@ -1,0 +1,6 @@
+Country,SiteNumber,SiteName,NoOfPatientsEnrolled,NoOfPatientsRandomized,NoOfPatientsDropout
+Pakistan,1001,Site 1001,2,1,1
+India,2001,Site 2001,4,2,2
+Usa,3001,Site 3001,2,2,0
+Mexico,4001,Site 4001,2,0,2
+Columbia,5001,Site 5001,0,0,0

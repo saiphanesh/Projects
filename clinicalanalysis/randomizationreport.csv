@@ -1,0 +1,6 @@
+PatientCode,RandomizationNumber,TreatmentGroup
+1001-001,1111,1
+2001-001,2222,1
+2001-003,3333,1
+3001-001,4444,2
+3001-002,5555,2

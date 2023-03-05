@@ -1,0 +1,11 @@
+Country,PatientCode,SiteNumber,PatientStatus,DATE_RANDOMIZED,DATE_DROPOUT
+Pakistan,1001-001,1001,randomized,2023-03-03,Not Dropout
+Pakistan,1001-002,1001,dropout,Not Randomized,2023-03-03
+India,2001-001,2001,randomized,2023-03-02,Not Dropout
+India,2001-002,2001,dropout,Not Randomized,2023-03-02
+India,2001-003,2001,randomized,2023-03-01,Not Dropout
+India,2001-004,2001,dropout,Not Randomized,2023-02-05
+Usa,3001-001,3001,randomized,2023-03-03,Not Dropout
+Usa,3001-002,3001,randomized,2023-02-20,Not Dropout
+Mexico,4001-001,4001,dropout,Not Randomized,2023-02-13
+Mexico,4001-002,4001,dropout,Not Randomized,2023-02-20
